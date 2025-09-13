@@ -8,11 +8,17 @@ In order to access the data, download the full [data folder](https://drive.googl
 s
 
 📂files
+
 ┣ 📂1_quiz
+
 ┣ 📂2_temp
+
 ┣ 📂3_basics
+
 ┣ 📂4_directories_programming
+
 ┣ 📂5_EDA
+
 ┗ 📂data
   ┣ 📂text_fun
   ┣ 📂WB_extra
