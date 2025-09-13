@@ -6,8 +6,11 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "matplotlib>=3.10.6",
+    "missingno>=0.5.2",
     "pandas>=2.3.2",
+    "regex>=2025.9.1",
     "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
 ]
 
 [dependency-groups]
