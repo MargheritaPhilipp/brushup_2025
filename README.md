@@ -19,9 +19,9 @@ s
 
 ┣ 📂5_EDA
 
-┗ 📂data
-  ┣ 📂text_fun
-  ┣ 📂WB_extra
+┗ 📂data\
+  ┣ 📂text_fun\
+  ┣ 📂WB_extra\
   ┣ 📜country_isocode_regions.csv
   ┣ 📜text_judiciary_weakened.csv
   ┗ 📜WB_pop_clean.csv
