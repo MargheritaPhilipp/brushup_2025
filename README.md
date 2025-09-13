@@ -1,6 +1,6 @@
 ### DSDM Brushup - 2025 coding
 
-This repository contains files from the 2025 editition of the coding part of the brushup course for students of the BSE Data Science for Decision Making programme. 
+This repository contains files for the coding brushup of the BSE [Data Science for Decision Making programme](https://bse.eu/masters-degrees/data-science/data-science-decision-making). 
 
 It it possible to generate the exact virtual environment used to run the notebooks via the uv.lock file (`uv sync`).
 
