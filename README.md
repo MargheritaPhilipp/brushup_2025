@@ -13,11 +13,11 @@ In order to access the data, download the full [data folder](https://drive.googl
 ┣ 📂4_directories_programming\
 ┣ 📂5_EDA\
 ┗ 📂data\
-  ┣ 📂text_fun\
-  ┣ 📂WB_extra\
-  ┣ 📜country_isocode_regions.csv\
-  ┣ 📜text_judiciary_weakened.csv\
-  ┗ 📜WB_pop_clean.csv\
+    ┣ 📂text_fun\
+    ┣ 📂WB_extra\
+    ┣ 📜country_isocode_regions.csv\
+    ┣ 📜text_judiciary_weakened.csv\
+    ┗ 📜WB_pop_clean.csv\
 📜.gitignore\
 📜main.py\
 📜pyproject.toml\
