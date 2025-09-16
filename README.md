@@ -6,6 +6,8 @@ It it possible to generate the exact virtual environment used to run the noteboo
 
 In order to access the data, download the full [data folder](https://drive.google.com/drive/folders/1v5LPtVH3DDpu4Hj3Df7W8VfqMpqCFtiF?usp=drive_link) and save it locally in the way indicated by the file tree below.
 
+You can find the matching [slides](https://drive.google.com/drive/folders/1mcjGxhuuWn0QhBGkHkn8kaV_63d1a4S5?usp=sharing) on drive.
+
 📂files\
 ┣ 📂1_quiz\
 ┣ 📂2_temp\
